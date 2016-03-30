@@ -24,11 +24,14 @@ public class Subtitle{
 	
 	public Section getSection(int index) {
 		return section.get(index);
-	}	
+	}
+	
+	public List<Section> getSection() {
+		return this.section;
+	}
 }
 
 class Section{
-	@SuppressWarnings("unused")
 	private String id;
 	private List<SubSection> subs = new ArrayList<>();
 
@@ -40,12 +43,20 @@ class Section{
 		this.id = id;
 	}
 	
+	public String getId() {
+		return this.id;
+	}
+	
 	public void addSubsection(String start) {
 		subs.add(new SubSection(start));
 	}
 	
 	public SubSection getSubSection(int index) {
 		return subs.get(index);
+	}
+	
+	public List<SubSection> getSubSection() {
+		return this.subs;
 	}
 }
 

@@ -1,0 +1,540 @@
+1
+00:00:04,019 --> 00:00:05,619
+[fesamacs, media, ®]
+
+2
+00:00:09,620 --> 00:00:11,781
+[Os, astrónomos, estão, reunidos, numa, sala, grande]
+
+3
+00:00:11,816 --> 00:00:13,421
+[enfeitada, com, instrumentos, .]
+
+4
+00:00:14,861 --> 00:00:17,423
+[O, Presidente, e, membros, do, comité, entram, .]
+
+5
+00:00:18,823 --> 00:00:20,183
+[Toda, a, gente, toma, lugar, .]
+
+6
+00:00:21,263 --> 00:00:25,265
+[Entrada, de, seis, empregadas, que, carregam, os, telescópios, dos, astrónomos, .]
+
+7
+00:00:35,867 --> 00:00:38,547
+[O, Presidente, toma, o, seu, lugar, e, explica, aos, membros]
+
+8
+00:00:38,582 --> 00:00:40,908
+[o, seu, plano, de, uma, viagem, à, lua, .]
+
+9
+00:01:18,838 --> 00:01:21,319
+[O, esquema, dele, é, aprovado, por, muitos, ,, mas, um, membro]
+
+10
+00:01:21,354 --> 00:01:23,160
+[opõe-se, terminantemente, .]
+
+11
+00:01:28,841 --> 00:01:32,322
+[Após, alguma, discussão, ,, o, Presidente, atira-lhe, os, seus, livros, e, papéis]
+
+12
+00:01:32,357 --> 00:01:33,002
+[à, cabeça, .]
+
+13
+00:01:58,969 --> 00:02:00,369
+[Após, o, restabelecimento, da, ordem]
+
+14
+00:02:00,849 --> 00:02:03,570
+[a, viagem, proposta, pelo, presidente, é, votada, por, uma, comissão, .]
+
+15
+00:02:03,605 --> 00:02:06,171
+[Cinco, homens, de, Londres, decidem-se, a, ir, com, ele, .]
+
+16
+00:02:07,891 --> 00:02:10,092
+[As, empregadas, trazem-lhes, os, uniformes, de, viagem, .]
+
+17
+00:02:33,819 --> 00:02:37,180
+[O, Presidente, Barbenfouillis, seleciona, cinco, colegas, para, o, acompanharem, .]
+
+18
+00:02:38,180 --> 00:02:45,061
+[Nostradamus, ,, Acofibas, ,, Omega, ,, Icomegas, e, Bagafarraganus, .]
+
+19
+00:02:48,822 --> 00:02:52,268
+[Entram, numa, oficina, onde, ferreiros, ,]
+
+20
+00:02:52,303 --> 00:02:57,145
+[mecânicos, ,, pesadores, ,, carpinteiros, ,, atapetadores, ,, etecetera, .]
+
+21
+00:02:57,180 --> 00:02:59,945
+[trabalham, arduamente, para, acabar, a, máquina, .]
+
+22
+00:03:15,069 --> 00:03:18,910
+[Icomegas, cai, acidentalmente, num, bidão, de, ácido, nítrico, .]
+
+23
+00:03:20,911 --> 00:03:24,712
+[Um, transeunte, informa, os, astrónomos, que, se, subissem]
+
+24
+00:03:24,747 --> 00:03:27,433
+[ao, telhado, presenciariam, um, espetáculo, magnífico, .]
+
+25
+00:03:27,952 --> 00:03:29,753
+[A, fundição, do, canhão, .]
+
+26
+00:03:31,914 --> 00:03:34,114
+[Os, astrónomos, sobem, por, uma, escada]
+
+27
+00:03:34,994 --> 00:03:36,635
+[e, ascendem, ao, telhado, .]
+
+28
+00:03:36,955 --> 00:03:38,595
+[Quando, por, fim, chegam, ,]
+
+29
+00:03:39,635 --> 00:03:44,196
+[contra, o, horizonte, ,, as, chaminés, expelem, volumes, de, fumo, .]
+
+30
+00:03:44,997 --> 00:03:47,037
+[De, repente, ,, uma, bandeira, é, hasteada, .]
+
+31
+00:03:47,958 --> 00:03:50,243
+[A, um, sinal, ,, uma, massa, de, aço, fundido]
+
+32
+00:03:50,278 --> 00:03:54,199
+[é, direcionada, de, cada, forno, para, o, molde, do, canhão, .]
+
+33
+00:03:55,120 --> 00:03:57,201
+[O, molde, liberta, chamas, e, vapor, .]
+
+34
+00:03:58,641 --> 00:04:02,841
+[Isto, causa, grande, regozijo, entre, os, entusiastas, astrónomos, .]
+
+35
+00:04:04,002 --> 00:04:05,843
+[Em, cima, dos, telhados, da, cidade, ,]
+
+36
+00:04:06,403 --> 00:04:08,403
+[preparações, pomposas, estão, a, ser, levadas, a, cabo, .]
+
+37
+00:04:09,084 --> 00:04:12,324
+[A, cápsula, está, em, posição, ,, pronta, a, receber, os, viajantes, .]
+
+38
+00:04:15,125 --> 00:04:16,445
+[Estes, chegam, ,]
+
+39
+00:04:25,087 --> 00:04:27,568
+[respondem, às, aclamações, da, multidão]
+
+40
+00:04:39,131 --> 00:04:40,532
+[e, entram, na, cápsula, .]
+
+41
+00:05:08,019 --> 00:05:10,780
+[Um, marinheiro, fecha, a, ponte, por, onde, passaram, .]
+
+42
+00:05:19,822 --> 00:05:22,663
+[Um, grupo, de, artilheiros, empurra, a, cápsula, para, cima, ,]
+
+43
+00:05:22,698 --> 00:05:24,263
+[para, a, boca, do, canhão, .]
+
+44
+00:05:29,944 --> 00:05:31,066
+[O, canhão, está, carregado, .]
+
+45
+00:05:31,826 --> 00:05:33,190
+[A, ponte, fechada, .]
+
+46
+00:05:33,225 --> 00:05:36,026
+[Todos, estão, ansiosamente, à, espera, do, sinal]
+
+47
+00:05:36,061 --> 00:05:38,387
+[que, projete, a, cápsula, na, sua, viagem, .]
+
+48
+00:05:44,308 --> 00:05:45,789
+[O, oficial, dá, o, sinal, .]
+
+49
+00:05:46,589 --> 00:05:47,874
+[O, canhão, é, disparado, .]
+
+50
+00:05:47,909 --> 00:05:50,350
+[E, a, cápsula, desaparece, no, espaço, .]
+
+51
+00:05:57,072 --> 00:05:59,032
+[A, cápsula, a, aproximar-se, a, cada, minuto, .]
+
+52
+00:05:59,753 --> 00:06:01,638
+[A, lua, aumenta, rapidamente]
+
+53
+00:06:01,673 --> 00:06:05,075
+[até, que, finalmente, atinge, dimensões, colossais, .]
+
+54
+00:06:05,914 --> 00:06:09,195
+[De, repente, ,, a, cápsula, beija, o, olho, da, lua, .]
+
+55
+00:06:11,116 --> 00:06:13,157
+[A, cápsula, aterra, com, estrondo, .]
+
+56
+00:06:23,559 --> 00:06:26,880
+[Os, astrónomos, saem, e, estão, encantados, com, a, paisagem, ,]
+
+57
+00:06:26,915 --> 00:06:28,240
+[que, é, nova, para, eles, .]
+
+58
+00:06:40,844 --> 00:06:45,205
+[Contra, o, horizonte, ,, a, terra, sobe, lentamente, no, espaço, ,]
+
+59
+00:06:45,965 --> 00:06:48,525
+[iluminando, a, imagem, com, uma, luz, fantástica, .]
+
+60
+00:06:49,126 --> 00:06:53,006
+[Os, astrónomos, a, inspecionar, o, local, vêm, crateras, por, todo, o, lado, .]
+
+61
+00:06:53,807 --> 00:06:55,533
+[Quando, estão, prestes, a, explorar, ,, uma, explosão]
+
+62
+00:06:55,568 --> 00:06:59,888
+[atira, os, desafortunados, homens, em, todas, as, direções, .]
+
+63
+00:07:10,091 --> 00:07:14,372
+[Os, astrónomos, dão, sinais, de, fadiga, após, a, dura, viagem, que, tiveram, .]
+
+64
+00:07:20,094 --> 00:07:23,575
+[Estendem-se, no, chão, e, adormecem, .]
+
+65
+00:07:24,415 --> 00:07:27,456
+[Sete, estrelas, gigantescas, que, representam, a, Ursa, Maior]
+
+66
+00:07:27,491 --> 00:07:29,056
+[aparecem, lentamente, ,]
+
+67
+00:07:29,257 --> 00:07:31,977
+[e, das, estrelas, saem, faces, de, mulheres]
+
+68
+00:07:32,298 --> 00:07:35,498
+[que, parecem, incomodadas, com, a, presença, destes, intrusos, na, lua, .]
+
+69
+00:07:36,339 --> 00:07:38,939
+[Nos, seus, sonhos, ,, vêm, passar, no, espaço, cometas, ,]
+
+70
+00:07:38,974 --> 00:07:41,140
+[meteoros, ,, etecetera, .]
+
+71
+00:07:42,980 --> 00:07:45,780
+[Depois, ,, as, estrelas, são, substituídas, por, formosas, visões, de]
+
+72
+00:07:45,815 --> 00:07:47,381
+[de, Febe, no, quarto, crescente, ,]
+
+73
+00:07:48,741 --> 00:07:51,383
+[de, Saturno, no, seu, globo, ,, rodeado, por, um, anel]
+
+74
+00:07:52,342 --> 00:07:55,543
+[e, de, jovens, encantadoras, a, susterem, uma, estrela, .]
+
+75
+00:07:56,263 --> 00:07:59,465
+[Decidem, punir, os, terrestres, de, forma, exemplar, .]
+
+76
+00:07:59,944 --> 00:08:03,865
+[Por, ordem, de, Febe, ,, a, neve, cai, de, todos, os, lados, .]
+
+77
+00:08:04,786 --> 00:08:07,106
+[cobrindo, o, chão, com, o, seu, manto, branco, .]
+
+78
+00:08:07,427 --> 00:08:08,906
+[O, frio, torna-se, terrível, .]
+
+79
+00:08:09,587 --> 00:08:12,108
+[Os, desafortunados, viajantes, acordam, meios, gelados, .]
+
+80
+00:08:19,070 --> 00:08:21,355
+[Decidem, ,, sem, hesitar, ,]
+
+81
+00:08:21,390 --> 00:08:26,551
+[e, apesar, do, perigo, ,, descem, ao, interior, de, uma, grande, cratera, ,]
+
+82
+00:08:26,952 --> 00:08:31,433
+[onde, um, a, um, desaparecem, ,, enquanto, a, tormenta, de, neve, se, abatia, violentamente, .]
+
+83
+00:08:38,874 --> 00:08:42,275
+[Os, astrónomos, chegam, ao, interior, de, uma, gruta, misteriosa, ,]
+
+84
+00:08:43,276 --> 00:08:46,317
+[cheio, de, cogumelos, enormes, de, todas, as, espécies, .]
+
+85
+00:08:55,079 --> 00:08:56,600
+[um, deles, abre, o, guarda-chuva, dele, para, comparar, o, seu, tamanho, com, o, cogumelo, .]
+
+86
+00:08:57,600 --> 00:09:00,000
+[mas, o, guarda-chuva, de, repente, ganha, raízes, e, transforma-se, num, cogumelo, .]
+
+87
+00:09:00,521 --> 00:09:04,442
+[Começa, a, crescer, gradualmente, ,, atingindo, proporções, gigantescas, .]
+
+88
+00:09:05,522 --> 00:09:07,642
+[De, repente, ,, os, astrónomos, notam, seres, estranhos, a, saírem]
+
+89
+00:09:07,677 --> 00:09:09,683
+[debaixo, dos, cogumelos, .]
+
+90
+00:09:10,402 --> 00:09:12,484
+[enquanto, executam, contorções, singulares, .]
+
+91
+00:09:13,044 --> 00:09:14,445
+[Estes, são, os, Selenitas, ,]
+
+92
+00:09:15,364 --> 00:09:17,325
+[ou, ,, os, habitantes, da, lua, .]
+
+93
+00:09:17,924 --> 00:09:20,405
+[O, fantástico, ser, atira-se, ao, astrónomo]
+
+94
+00:09:20,886 --> 00:09:21,766
+[o, qual, se, defende, .]
+
+95
+00:09:22,766 --> 00:09:24,246
+[E, com, um, golpe, do, seu, guarda-chuva]
+
+96
+00:09:24,607 --> 00:09:27,287
+[o, Selenita, explode, em, mil, pedaços, .]
+
+97
+00:09:30,088 --> 00:09:32,088
+[Um, segundo, sofre, o, mesmo, destino, .]
+
+98
+00:09:35,329 --> 00:09:37,410
+[Mas, os, selenitas, chegam, em, grandes, quantidades, .]
+
+99
+00:09:38,730 --> 00:09:40,091
+[Os, aterrorizados, astrónomos, .]
+
+100
+00:09:40,126 --> 00:09:42,496
+[fogem, a, sete, pés, para, se, salvarem, ,]
+
+101
+00:09:42,531 --> 00:09:44,653
+[com, os, Selenitas, em, perseguição]
+
+102
+00:09:45,172 --> 00:09:48,813
+[Sucumbindo, em, número, ,, os, astrónomos, são, capturados]
+
+103
+00:09:48,848 --> 00:09:52,454
+[atados, e, levados, ao, palácio, do, Rei, dos, Selenitas, .]
+
+104
+00:09:52,774 --> 00:09:55,935
+[Num, trono, esplêndido, ,, rodeado, de, estrelas, vivas, ,]
+
+105
+00:09:56,416 --> 00:09:58,336
+[está, sentado, o, Rei, Selenita, .]
+
+106
+00:10:00,496 --> 00:10:04,097
+[O, Presidente, Barbenfouillis, aproxima-se, bruscamente, ao, rei, dos, Selenitas]
+
+107
+00:10:04,132 --> 00:10:06,178
+[e, erguendo-o, como, uma, pluma]
+
+108
+00:10:06,537 --> 00:10:08,258
+[atira-o, violentamente, ao, chão, .]
+
+109
+00:10:08,859 --> 00:10:11,179
+[O, malfadado, Rei, explode, como, uma, bomba, .]
+
+110
+00:10:19,501 --> 00:10:22,622
+[Os, astrónomos, fogem, ,, no, meio, de, um, caos, generalizado, .]
+
+111
+00:10:23,062 --> 00:10:25,263
+[O, exército, Selenita, persegue-os, .]
+
+112
+00:10:25,943 --> 00:10:28,263
+[Os, astrónomos, correm, a, toda, a, velocidade, ,]
+
+113
+00:10:28,298 --> 00:10:30,584
+[voltando-se, a, cada, vez, que, eram, pressionados, de, muito, perto]
+
+114
+00:10:30,904 --> 00:10:33,745
+[reduzindo, a, cinzas, os, seres, funestos, .]
+
+115
+00:10:35,226 --> 00:10:37,111
+[O, ainda, crescente, número, de, Selenitas]
+
+116
+00:10:37,146 --> 00:10:40,346
+[obriga, desesperadamente, os, astrónomos, a, levantar, voo, de, novo, .]
+
+117
+00:10:42,707 --> 00:10:44,908
+[Finalmente, os, astrónomos, encontram, a, cápsula]
+
+118
+00:10:44,943 --> 00:10:47,109
+[e, rapidamente, se, atiram, para, o, seu, interior, .]
+
+119
+00:10:47,589 --> 00:10:50,909
+[Graças, ao, avanço, ,, triunfam, em, ver-se, livres, do, adversário, .]
+
+120
+00:10:51,510 --> 00:10:54,871
+[Só, um, ,, o, Presidente, ,, foi, deixado, para, trás, .]
+
+121
+00:10:55,671 --> 00:10:58,472
+[Apressa-se, para, a, corda, pendente, da, ponta, da, cápsula]
+
+122
+00:10:59,032 --> 00:11:00,753
+[e, ,, deixando-se, deslizar, pela, corda, ,]
+
+123
+00:11:01,352 --> 00:11:05,393
+[dá-lhe, um, ímpeto, que, leva, a, que, a, cápsula, caia, da, berma, da, Lua, .]
+
+124
+00:11:05,428 --> 00:11:08,915
+[Um, Selenita, agarrado, à, cápsula, para, a, deter, é, arrastado, com, ela, .]
+
+125
+00:11:09,434 --> 00:11:11,174
+[e, pendurado, no, projétil]
+
+126
+00:11:11,209 --> 00:11:12,915
+[acompanha-o, na, sua, descida, .]
+
+127
+00:11:18,797 --> 00:11:20,718
+[A, cápsula, cai, com, uma, rapidez, estonteante, .]
+
+128
+00:11:21,437 --> 00:11:22,918
+[Surge, o, mar, .]
+
+129
+00:11:24,598 --> 00:11:28,199
+[Continuam, a, seguir, o, curso, da, cápsula, até, ao, fundo, do, oceano, .]
+
+130
+00:11:29,080 --> 00:11:30,159
+[A, nave, equilibra-se]
+
+131
+00:11:30,960 --> 00:11:34,121
+[e, graças, ao, ar, hermeticamente, fechado, no, seu, interior]
+
+132
+00:11:35,001 --> 00:11:36,722
+[emerge, lentamente, até, à, superfície]
+
+133
+00:11:37,241 --> 00:11:39,082
+[para, espanto, dos, peixes, .]
+
+134
+00:11:39,803 --> 00:11:41,443
+[A, cápsula]
+
+135
+00:11:42,043 --> 00:11:43,284
+[que]
+
