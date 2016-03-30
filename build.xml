@@ -1,0 +1,26 @@
+<project default="jar">
+    <property name="jarName" value="XML2SRT.jar"/>
+
+    <target name="clean">
+        <delete dir="build"/>
+        <delete file="${jarName}"/>
+    </target>
+
+    <target name="compile" depends="clean">
+        <mkdir dir="build/classes"/>
+        <javac target="1.8" srcdir="src" destdir="build/classes"/>
+    </target>
+
+    <target name="jar" depends="compile">
+    	<mkdir dir="build/jar"/>
+        <jar destfile="build/jar/${jarName}" basedir="build/classes">
+            <manifest>
+                <attribute name="Main-Class" value="XML2SRT"/>
+            </manifest>
+        </jar>
+    </target>
+
+    <target name="run" depends="jar">
+        <java jar="build/jar/${jarName}" fork="true"/>
+    </target>
+</project>
