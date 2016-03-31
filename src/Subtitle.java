@@ -89,7 +89,7 @@ class SubSection{
 		String text = "";
 		
 		for(String s: this.lines) {
-			text += s + " "; 
+			text += s + "\t"; 
 		}
 		return text;
 	}
