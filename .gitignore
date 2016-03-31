@@ -1,5 +1,7 @@
 *.class
 *.jar
+*.srt
+
 .classpath
 .project
 
