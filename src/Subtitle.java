@@ -6,7 +6,6 @@ public class Subtitle{
 	private List<Section> section = new ArrayList<>(); 
 	
 	public Subtitle(String name){
-		System.out.println("New Sub: "+ name);
 		this.subName = name;
 	}
 	
@@ -36,10 +35,6 @@ class Section{
 	private List<SubSection> subs = new ArrayList<>();
 
 	public Section(String id) {
-		System.out.println("<---------------------------------->");
-		System.out.println("<---------------------------------->");
-		System.out.println("<---------------------------------->");
-		System.out.println("New section: "+ id);
 		this.id = id;
 	}
 	
@@ -63,10 +58,9 @@ class Section{
 class SubSection{
 	private String start;
 	private String end;
-	private ArrayList<String> text = new ArrayList<>();
+	private ArrayList<String> lines = new ArrayList<>();
 	
 	public SubSection(String start) {
-		System.out.println("SubSect Start: "+ start);
 		this.start = start;
 	}
 	
@@ -79,7 +73,6 @@ class SubSection{
 	}
 	
 	public void setEnd(String end) {
-		System.out.println("SubSec End: "+ end);
 		this.end = end;
 	}
 	
@@ -88,12 +81,16 @@ class SubSection{
 	}
 	
 	public void setLine(String line) {
-		System.out.println("TEXT:: " + line);
-		this.text.add(line);
+		this.lines.add(line);
 		
 	}
 	
-	public ArrayList<String> getText() {
-		return this.text;
+	public String getText() {
+		String text = "";
+		
+		for(String s: this.lines) {
+			text += s + "\t"; 
+		}
+		return text;
 	}
 }

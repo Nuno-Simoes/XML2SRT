@@ -18,12 +18,12 @@ public class SRTWriter {
 					writer.println(subCount);
 					subCount++;
 					writer.println(ss.getStart() + " --> " + ss.getEnd());
-					//TODO: ARRANGE ARRAY INTO A SINGLE STRING
 					writer.println(ss.getText());
 					writer.println();
 				}
 			}
 			writer.close();
+			System.out.println("Created File ---> " + subName + ".srt");
 		} catch (UnsupportedEncodingException | FileNotFoundException e) {
 			e.printStackTrace();
 		}

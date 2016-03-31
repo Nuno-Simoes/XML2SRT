@@ -20,7 +20,8 @@ public class XMLParser {
 		DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
 		Document doc = dBuilder.parse(inputFile);
 		doc.getDocumentElement().normalize();
-
+		
+		System.out.println("Parsing --> "+doc.getDocumentElement().getAttribute("id") + ".xml");
 		Subtitle sub = new Subtitle(doc.getDocumentElement().getAttribute("id"));
 
 		NodeList nList = doc.getElementsByTagName("s");
