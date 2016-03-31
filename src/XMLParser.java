@@ -21,6 +21,9 @@ public class XMLParser {
 		Document doc = dBuilder.parse(inputFile);
 		doc.getDocumentElement().normalize();
 		
+		if(!this.hasCorrectElements(doc))
+			return null;
+		
 		System.out.println("Parsing --> "+doc.getDocumentElement().getAttribute("id") + ".xml");
 		Subtitle sub = new Subtitle(doc.getDocumentElement().getAttribute("id"));
 
@@ -61,5 +64,15 @@ public class XMLParser {
 			}	
 		}
 		return sub;
+	}
+	
+	//Shallow check that should be enough to select only subtitles
+	private boolean hasCorrectElements(Document doc) {;
+		if(doc.getElementsByTagName("document").getLength() == 0 ||
+				doc.getElementsByTagName("s").getLength() == 0 ||
+				doc.getElementsByTagName("time").getLength() == 0 ||
+				doc.getElementsByTagName("w").getLength() == 0)
+			return false;
+		return true;
 	}
 }

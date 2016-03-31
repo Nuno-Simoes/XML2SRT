@@ -4,14 +4,13 @@ import java.io.UnsupportedEncodingException;
 
 public class SRTWriter {
 
-	public void write(Subtitle sub) {
+	public void write(Subtitle sub, String path) {
 		
-		String subName = sub.getSubName();
 		int subCount = 1;
+		String[] split = path.split(".xml");
 		
 		try {
-			//TODO:SEND FILES TO SAME DIRECTORY AS THE INPUT FILES
-			PrintWriter writer = new PrintWriter(subName+".srt", "UTF-8");
+			PrintWriter writer = new PrintWriter(split[0]+".srt", "UTF-8");
 			
 			for(Section s: sub.getSection()) {
 				for(SubSection ss: s.getSubSection()) {
@@ -23,7 +22,7 @@ public class SRTWriter {
 				}
 			}
 			writer.close();
-			System.out.println("Created File ---> " + subName + ".srt");
+			System.out.println("Created File ---> " + sub.getSubName() + ".srt");
 		} catch (UnsupportedEncodingException | FileNotFoundException e) {
 			e.printStackTrace();
 		}
