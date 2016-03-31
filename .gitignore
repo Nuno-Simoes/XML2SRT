@@ -1,6 +1,7 @@
 *.class
 *.jar
 *.srt
+build.xml
 
 .classpath
 .project
